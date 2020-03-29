@@ -13,5 +13,9 @@ visible: false
 template: item
 ---
 
+Ivan Illich est surtout connu pour la notion de convivialité
 
-Voilà
+Notion purement positive récupérée par le marketing
+
+
+La notion centrale de Illich est la contreproductivité

@@ -19,3 +19,9 @@ Notion purement positive récupérée par le marketing
 
 
 La notion centrale de Illich est la contreproductivité
+
+décrire la situation pour rendre la situation concrête :  c'est l'histoire d'une jeune designeure
+
+le design de mobilité
+
+le lièvre et la tortue

@@ -29,3 +29,5 @@ le lièvre et la tortue
 Dewey et l'abstraction comme détour de production mental.
 
 Faire plusieurs articles (1/3 = Intro à Illich, 2/3 = la contreproductivité d'internet, 3/3 Contreproductivité et critique du Design avec John Dewey)
+
+Mais comment se déplace la police ?

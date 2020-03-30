@@ -25,3 +25,5 @@ décrire la situation pour rendre la situation concrête :  c'est l'histoire d'u
 le design de mobilité
 
 le lièvre et la tortue
+
+Dewey et l'abstraction comme détour de production mental.
